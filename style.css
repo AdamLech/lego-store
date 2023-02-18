@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #ccc;
+    list-style: none;
+}
+
+body{
+    background: #000;
+}
+
+input{
+    /* color: #222; */
+    background: #666;
+}

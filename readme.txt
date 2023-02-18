@@ -1,0 +1,1 @@
+This is a project of lego store page for my portfolio.
